@@ -85,6 +85,8 @@ To install these 2 packages at once, run:
 sudo apt install php-fpm php-mysql
 When prompted, type Y and press ENTER to confirm installation.
 
+<img width="876" alt="Screenshot 2023-03-30 at 14 19 58" src="https://user-images.githubusercontent.com/67044030/228926048-0adaab65-c99b-46db-8f42-f1fc3da8d340.png">
+ 
 You now have your PHP components installed. Next, you will configure Nginx to use them
  
 Now that you have a web server up and running, you need to install a Database Management System (DBMS) to be able to store and manage data for your site in a 
