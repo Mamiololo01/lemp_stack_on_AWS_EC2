@@ -6,6 +6,8 @@ In order to complete this project you will need an AWS account and a virtual ser
 
 Sign in to AWS free tier account and create a new EC2 Instance of t2.nano family with Ubuntu Server 22.04 LTS (HVM) image. 
 
+<img width="1029" alt="Screenshot 2023-03-30 at 14 37 22" src="https://user-images.githubusercontent.com/67044030/228925801-a364ec70-aa24-4a94-b05d-90801bdb5364.png">
+
 Open an SSH client.
 
 Locate your private key file. The key used to launch this instance is lamp_server_key.pem
