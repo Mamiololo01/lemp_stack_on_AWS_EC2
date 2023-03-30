@@ -69,7 +69,7 @@ The URL in browser shall also work if you do not specify port number since all w
 
 If you see following page, then your web server is now correctly installed and accessible through your firewall.
 
-https://github.com/Mamiololo01/lemp_stack_on_AWS_EC2/issues/1#issue-1648054829
+<img width="797" alt="Screenshot 2023-03-30 at 13 48 31" src="https://user-images.githubusercontent.com/67044030/228922100-dcc5e3e8-6d30-4e24-8074-a31c86f5b4a2.png">
 
 
 In fact, it is the same content that you previously got by ‘curl’ command, but represented in nice HTML formatting by your web browser.
