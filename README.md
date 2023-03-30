@@ -68,6 +68,7 @@ curl -s http://169.254.169.254/latest/meta-data/public-ipv4
 The URL in browser shall also work if you do not specify port number since all web browsers use port 80 by default.
 
 If you see following page, then your web server is now correctly installed and accessible through your firewall.
+
 https://github.com/Mamiololo01/lemp_stack_on_AWS_EC2/issues/1#issue-1648054829
 
 
